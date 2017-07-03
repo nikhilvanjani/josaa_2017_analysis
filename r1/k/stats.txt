@@ -1,0 +1,827 @@
+1	Aerospace Engineering (4 Years, Bachelor of Technology)	36	Open(PwD)	All India	1	Fresh Allotment	11604638	GENERAL(PWD)	--	103
+2	Aerospace Engineering (4 Years, Bachelor of Technology)	40	ST	All India	1	Fresh Allotment	18400296	ST	--	378
+3	Aerospace Engineering (4 Years, Bachelor of Technology)	4	ST	All India	1	Fresh Allotment	21200617	ST	--	403
+4	Aerospace Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	15709196	ST	--	414
+5	Aerospace Engineering (4 Years, Bachelor of Technology)	6	ST	All India	1	Fresh Allotment	19202451	ST	--	440
+6	Aerospace Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	14406150	SC	--	537
+7	Aerospace Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19716168	SC	--	541
+8	Aerospace Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	15508872	SC	--	586
+9	Aerospace Engineering (4 Years, Bachelor of Technology)	38	SC	All India	1	Fresh Allotment	15719267	SC	--	641
+10	Aerospace Engineering (4 Years, Bachelor of Technology)	22	SC	All India	1	Fresh Allotment	17714972	SC	--	649
+11	Aerospace Engineering (4 Years, Bachelor of Technology)	4	SC	All India	1	Fresh Allotment	15620549	SC	--	684
+12	Aerospace Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	18407250	SC	--	715
+13	Aerospace Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	11647243	OBC-NCL	--	1072.01
+14	Aerospace Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	12906357	OBC-NCL	--	1073
+15	Aerospace Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	14905292	OBC-NCL	--	1185
+16	Aerospace Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	17602639	OBC-NCL	--	1186
+17	Aerospace Engineering (4 Years, Bachelor of Technology)	29	OBC-NCL	All India	1	Fresh Allotment	19101731	OBC-NCL	--	1199
+18	Aerospace Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	17712212	OBC-NCL	--	1289
+19	Aerospace Engineering (4 Years, Bachelor of Technology)	14	OBC-NCL	All India	1	Fresh Allotment	10902339	OBC-NCL	--	1322
+20	Aerospace Engineering (4 Years, Bachelor of Technology)	24	OBC-NCL	All India	1	Fresh Allotment	19905390	OBC-NCL	--	1335.01
+21	Aerospace Engineering (4 Years, Bachelor of Technology)	14	OBC-NCL	All India	1	Fresh Allotment	11803998	OBC-NCL	--	1343
+22	Aerospace Engineering (4 Years, Bachelor of Technology)	40	OBC-NCL	All India	1	Fresh Allotment	21204083	OBC-NCL	--	1345
+23	Aerospace Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	15922256	OBC-NCL	--	1373
+24	Aerospace Engineering (4 Years, Bachelor of Technology)	55	OBC-NCL	All India	1	Fresh Allotment	11107619	OBC-NCL	--	1381
+25	Aerospace Engineering (4 Years, Bachelor of Technology)	28	OBC-NCL	All India	1	Fresh Allotment	17709605	OBC-NCL	--	1415
+26	Aerospace Engineering (4 Years, Bachelor of Technology)	32	OBC-NCL	All India	1	Fresh Allotment	14603852	OBC-NCL	--	1416
+27	Aerospace Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	20207237	GENERAL	--	1474
+28	Aerospace Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	11207184	GENERAL	--	1982
+29	Aerospace Engineering (4 Years, Bachelor of Technology)	31	Open	All India	1	Fresh Allotment	14806936	GENERAL	--	1986
+30	Aerospace Engineering (4 Years, Bachelor of Technology)	19	Open	All India	1	Fresh Allotment	19502401	GENERAL	--	2218
+31	Aerospace Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	12901410	GENERAL	--	2259
+32	Aerospace Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	14101652	GENERAL	--	2416
+33	Aerospace Engineering (4 Years, Bachelor of Technology)	26	Open	All India	1	Fresh Allotment	20201794	GENERAL	--	2471
+34	Aerospace Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	54803783	GENERAL	--	2489
+35	Aerospace Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	15606003	GENERAL	--	2549
+36	Aerospace Engineering (4 Years, Bachelor of Technology)	27	Open	All India	1	Fresh Allotment	21205095	GENERAL	--	2609
+37	Aerospace Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	19904658	GENERAL	--	2612
+38	Aerospace Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	19810826	GENERAL	--	2632
+39	Aerospace Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	18110786	GENERAL	--	2705
+40	Aerospace Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	15920106	GENERAL	--	2724
+41	Aerospace Engineering (4 Years, Bachelor of Technology)	22	Open	All India	1	Fresh Allotment	21209178	GENERAL	--	2729
+42	Aerospace Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	17714871	GENERAL	--	2745
+43	Aerospace Engineering (4 Years, Bachelor of Technology)	24	Open	All India	1	Fresh Allotment	20215812	GENERAL	--	2769
+44	Aerospace Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	15000365	GENERAL	--	2785
+45	Aerospace Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	19809003	GENERAL	--	2823
+46	Aerospace Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	19918101	GENERAL	--	2832
+47	Aerospace Engineering (4 Years, Bachelor of Technology)	21	Open	All India	1	Fresh Allotment	13701520	GENERAL	--	2843
+48	Aerospace Engineering (4 Years, Bachelor of Technology)	29	Open	All India	1	Fresh Allotment	10312054	GENERAL	--	2853
+49	Aerospace Engineering (4 Years, Bachelor of Technology)	36	Open	All India	1	Fresh Allotment	14810849	GENERAL	--	2861
+50	Aerospace Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	19708585	GENERAL	--	2915
+51	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	12	OBC-NCL(PwD)	All India	1	Fresh Allotment	15928272	OBC-NCL(PWD)	Preparatory	40
+52	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	15	Open(PwD)	All India	1	Fresh Allotment	19703999	GENERAL(PWD)	--	247
+53	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	56	Open(PwD)	All India	1	Fresh Allotment	11135845	OBC-NCL(PWD)	--	257
+54	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	26	ST	All India	1	Fresh Allotment	19808916	ST	--	669
+55	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	19	ST	All India	1	Fresh Allotment	19809005	ST	--	671.01
+56	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	116	ST	All India	1	Fresh Allotment	17713267	ST	--	765
+57	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	72	SC	All India	1	Fresh Allotment	11301548	SC	--	1606
+58	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	13	SC	All India	1	Fresh Allotment	11125628	SC	--	1672
+59	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	299	SC	All India	1	Fresh Allotment	19904999	SC	--	1709
+60	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	64	SC	All India	1	Fresh Allotment	17703167	SC	--	1712
+61	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	88	SC	All India	1	Fresh Allotment	17905596	SC	--	1759
+62	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	65	SC	All India	1	Fresh Allotment	11202539	SC	--	1892
+63	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	75	OBC-NCL	All India	1	Fresh Allotment	10501347	OBC-NCL	--	2086
+64	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	20	OBC-NCL	All India	1	Fresh Allotment	19805510	OBC-NCL	--	2191
+65	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	19802946	OBC-NCL	--	2279
+66	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	15505659	OBC-NCL	--	2304
+67	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	19502683	OBC-NCL	--	2460
+68	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	17902239	OBC-NCL	--	2464
+69	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	46	OBC-NCL	All India	1	Fresh Allotment	15006843	OBC-NCL	--	2471
+70	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	23	OBC-NCL	All India	1	Fresh Allotment	17702064	OBC-NCL	--	2540
+71	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	10	OBC-NCL	All India	1	Fresh Allotment	19701382	OBC-NCL	--	2556
+72	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	146	OBC-NCL	All India	1	Fresh Allotment	50504014	OBC-NCL	--	2598
+73	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	1	Open	All India	1	Fresh Allotment	14104132	GENERAL	--	2996
+74	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	11603450	GENERAL	--	3951
+75	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	17711692	GENERAL	--	4071
+76	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	32	Open	All India	1	Fresh Allotment	12905913	GENERAL	--	4096
+77	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	48	Open	All India	1	Fresh Allotment	14806679	GENERAL	--	4156
+78	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	21206073	GENERAL	--	4254
+79	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	26	Open	All India	1	Fresh Allotment	17713780	GENERAL	--	4333
+80	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	14800806	GENERAL	--	4391
+81	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	11802253	GENERAL	--	4409
+82	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	61	Open	All India	1	Fresh Allotment	15934172	GENERAL	--	4476
+83	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	13000770	GENERAL	--	4521
+84	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	45	Open	All India	1	Fresh Allotment	15605373	GENERAL	--	4620
+85	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	1	Open	All India	1	Fresh Allotment	16809866	GENERAL	--	4623
+86	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	47	Open	All India	1	Fresh Allotment	15003319	GENERAL	--	4690
+87	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	17711259	GENERAL	--	4760
+88	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	113	Open	All India	1	Fresh Allotment	18105498	GENERAL	--	4765
+89	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	45	Open	All India	1	Fresh Allotment	11631708	GENERAL	--	4822
+90	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	19200631	GENERAL	--	4872
+91	Chemical Engineering (4 Years, Bachelor of Technology)	1	Open(PwD)	All India	1	Fresh Allotment	19305135	OBC-NCL(PWD)	--	74
+92	Chemical Engineering (4 Years, Bachelor of Technology)	18	Open(PwD)	All India	1	Fresh Allotment	10208882	GENERAL(PWD)	--	91
+93	Chemical Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	19707384	SC	--	344
+94	Chemical Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	19709161	SC	--	368
+95	Chemical Engineering (4 Years, Bachelor of Technology)	26	ST	All India	1	Fresh Allotment	17724252	ST	--	368
+96	Chemical Engineering (4 Years, Bachelor of Technology)	8	ST	All India	1	Fresh Allotment	17904076	ST	--	411
+97	Chemical Engineering (4 Years, Bachelor of Technology)	12	ST	All India	1	Fresh Allotment	13904884	ST	--	428
+98	Chemical Engineering (4 Years, Bachelor of Technology)	28	ST	All India	1	Fresh Allotment	18435928	ST	--	432
+99	Chemical Engineering (4 Years, Bachelor of Technology)	9	ST	All India	1	Fresh Allotment	15707679	ST	--	434
+100	Chemical Engineering (4 Years, Bachelor of Technology)	44	ST	All India	1	Fresh Allotment	17732202	ST	--	436
+101	Chemical Engineering (4 Years, Bachelor of Technology)	10	SC	All India	1	Fresh Allotment	12604171	SC	--	671
+102	Chemical Engineering (4 Years, Bachelor of Technology)	7	SC	All India	1	Fresh Allotment	11643500	SC	--	691
+103	Chemical Engineering (4 Years, Bachelor of Technology)	46	SC	All India	1	Fresh Allotment	17701305	SC	--	712
+104	Chemical Engineering (4 Years, Bachelor of Technology)	37	SC	All India	1	Fresh Allotment	19802183	SC	--	748
+105	Chemical Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19910266	SC	--	751
+106	Chemical Engineering (4 Years, Bachelor of Technology)	47	SC	All India	1	Fresh Allotment	15406865	SC	--	770
+107	Chemical Engineering (4 Years, Bachelor of Technology)	16	SC	All India	1	Fresh Allotment	12800039	SC	--	796
+108	Chemical Engineering (4 Years, Bachelor of Technology)	5	SC	All India	1	Fresh Allotment	19715930	SC	--	806
+109	Chemical Engineering (4 Years, Bachelor of Technology)	22	SC	All India	1	Fresh Allotment	17739014	SC	--	837
+110	Chemical Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	19706928	OBC-NCL	--	970
+111	Chemical Engineering (4 Years, Bachelor of Technology)	10	OBC-NCL	All India	1	Fresh Allotment	19704020	OBC-NCL	--	981.01
+112	Chemical Engineering (4 Years, Bachelor of Technology)	46	OBC-NCL	All India	1	Fresh Allotment	17707376	OBC-NCL	--	983
+113	Chemical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	17708301	OBC-NCL	--	1022
+114	Chemical Engineering (4 Years, Bachelor of Technology)	6	OBC-NCL	All India	1	Fresh Allotment	19709683	OBC-NCL	--	1023
+115	Chemical Engineering (4 Years, Bachelor of Technology)	22	OBC-NCL	All India	1	Fresh Allotment	19709526	OBC-NCL	--	1024
+116	Chemical Engineering (4 Years, Bachelor of Technology)	24	OBC-NCL	All India	1	Fresh Allotment	17902512	OBC-NCL	--	1088
+117	Chemical Engineering (4 Years, Bachelor of Technology)	30	OBC-NCL	All India	1	Fresh Allotment	11124492	OBC-NCL	--	1108
+118	Chemical Engineering (4 Years, Bachelor of Technology)	13	OBC-NCL	All India	1	Fresh Allotment	17714726	OBC-NCL	--	1120
+119	Chemical Engineering (4 Years, Bachelor of Technology)	15	OBC-NCL	All India	1	Fresh Allotment	15620414	OBC-NCL	--	1140
+120	Chemical Engineering (4 Years, Bachelor of Technology)	33	OBC-NCL	All India	1	Fresh Allotment	17902968	OBC-NCL	--	1152
+121	Chemical Engineering (4 Years, Bachelor of Technology)	22	OBC-NCL	All India	1	Fresh Allotment	15905316	OBC-NCL	--	1163
+122	Chemical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	15000449	OBC-NCL	--	1164
+123	Chemical Engineering (4 Years, Bachelor of Technology)	13	OBC-NCL	All India	1	Fresh Allotment	17400878	OBC-NCL	--	1168
+124	Chemical Engineering (4 Years, Bachelor of Technology)	29	OBC-NCL	All India	1	Fresh Allotment	19101951	OBC-NCL	--	1190
+125	Chemical Engineering (4 Years, Bachelor of Technology)	29	OBC-NCL	All India	1	Fresh Allotment	19811258	OBC-NCL	--	1218
+126	Chemical Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	11000184	OBC-NCL	--	1263
+127	Chemical Engineering (4 Years, Bachelor of Technology)	34	OBC-NCL	All India	1	Fresh Allotment	19902647	OBC-NCL	--	1269.01
+128	Chemical Engineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	19703630	OBC-NCL	--	1305
+129	Chemical Engineering (4 Years, Bachelor of Technology)	10	OBC-NCL	All India	1	Fresh Allotment	17712712	OBC-NCL	--	1311
+130	Chemical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	19806583	GENERAL	--	1404
+131	Chemical Engineering (4 Years, Bachelor of Technology)	29	Open	All India	1	Fresh Allotment	11801899	GENERAL	--	1828
+132	Chemical Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	19302073	GENERAL	--	1851
+133	Chemical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	19203871	GENERAL	--	1890
+134	Chemical Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	19807779	GENERAL	--	1900
+135	Chemical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	11639530	GENERAL	--	1950
+136	Chemical Engineering (4 Years, Bachelor of Technology)	33	Open	All India	1	Fresh Allotment	19201562	GENERAL	--	1966
+137	Chemical Engineering (4 Years, Bachelor of Technology)	21	Open	All India	1	Fresh Allotment	21205083	GENERAL	--	1998
+138	Chemical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	21209106	GENERAL	--	2010
+139	Chemical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	21204483	GENERAL	--	2062
+140	Chemical Engineering (4 Years, Bachelor of Technology)	28	Open	All India	1	Fresh Allotment	12801132	GENERAL	--	2099
+141	Chemical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	11639786	GENERAL	--	2206
+142	Chemical Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	19704167	GENERAL	--	2211
+143	Chemical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	12802830	GENERAL	--	2269
+144	Chemical Engineering (4 Years, Bachelor of Technology)	26	Open	All India	1	Fresh Allotment	17713225	GENERAL	--	2271
+145	Chemical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	12803863	GENERAL	--	2295
+146	Chemical Engineering (4 Years, Bachelor of Technology)	48	Open	All India	1	Fresh Allotment	15934112	GENERAL	--	2327
+147	Chemical Engineering (4 Years, Bachelor of Technology)	22	Open	All India	1	Fresh Allotment	14102262	GENERAL	--	2335
+148	Chemical Engineering (4 Years, Bachelor of Technology)	22	Open	All India	1	Fresh Allotment	19805377	GENERAL	--	2359
+149	Chemical Engineering (4 Years, Bachelor of Technology)	32	Open	All India	1	Fresh Allotment	17712906	GENERAL	--	2369
+150	Chemical Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	17711291	GENERAL	--	2380
+151	Chemical Engineering (4 Years, Bachelor of Technology)	39	Open	All India	1	Fresh Allotment	19811389	GENERAL	--	2389
+152	Chemical Engineering (4 Years, Bachelor of Technology)	21	Open	All India	1	Fresh Allotment	19709826	GENERAL	--	2390
+153	Chemical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	19700544	GENERAL	--	2417
+154	Chemical Engineering (4 Years, Bachelor of Technology)	27	Open	All India	1	Fresh Allotment	11601281	GENERAL	--	2428
+155	Chemical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	19903023	GENERAL	--	2444
+156	Chemical Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	10504350	GENERAL	--	2448
+157	Chemical Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	17707034	GENERAL	--	2452
+158	Chemical Engineering (4 Years, Bachelor of Technology)	29	Open	All India	1	Fresh Allotment	21202275	GENERAL	--	2467
+159	Chemical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	12802967	GENERAL	--	2524
+160	Chemical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	20210154	GENERAL	--	2538
+161	Chemical Engineering (4 Years, Bachelor of Technology)	31	Open	All India	1	Fresh Allotment	11206821	GENERAL	--	2555
+162	Chemical Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	21201043	GENERAL	--	2610
+163	Chemical Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	19705766	GENERAL	--	2611
+164	Chemical Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	11639067	GENERAL	--	2615
+165	Chemical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	11613593	GENERAL	--	2628
+166	Chemistry (4 Years, Bachelor of Science)	29	Open(PwD)	All India	1	Fresh Allotment	18410909	GENERAL(PWD)	--	216
+167	Chemistry (4 Years, Bachelor of Science)	52	ST	All India	1	Fresh Allotment	18412381	ST	--	875
+168	Chemistry (4 Years, Bachelor of Science)	20	ST	All India	1	Fresh Allotment	17501463	ST	--	891
+169	Chemistry (4 Years, Bachelor of Science)	162	ST	All India	1	Fresh Allotment	10422352	ST	--	928
+170	Chemistry (4 Years, Bachelor of Science)	6	SC	All India	1	Fresh Allotment	20211814	SC	--	1708
+171	Chemistry (4 Years, Bachelor of Science)	13	SC	All India	1	Fresh Allotment	17710038	SC	--	1727
+172	Chemistry (4 Years, Bachelor of Science)	61	SC	All India	1	Fresh Allotment	55603509	SC	--	1735
+173	Chemistry (4 Years, Bachelor of Science)	55	SC	All India	1	Fresh Allotment	19810002	SC	--	1915
+174	Chemistry (4 Years, Bachelor of Science)	15	SC	All India	1	Fresh Allotment	17704587	SC	--	1940
+175	Chemistry (4 Years, Bachelor of Science)	3	OBC-NCL	All India	1	Fresh Allotment	18200649	OBC-NCL	--	2436
+176	Chemistry (4 Years, Bachelor of Science)	60	OBC-NCL	All India	1	Fresh Allotment	11109170	OBC-NCL	--	2567
+177	Chemistry (4 Years, Bachelor of Science)	40	OBC-NCL	All India	1	Fresh Allotment	18300983	OBC-NCL	--	2630
+178	Chemistry (4 Years, Bachelor of Science)	75	OBC-NCL	All India	1	Fresh Allotment	15614764	OBC-NCL	--	2754
+179	Chemistry (4 Years, Bachelor of Science)	5	OBC-NCL	All India	1	Fresh Allotment	11616546	OBC-NCL	--	2777
+180	Chemistry (4 Years, Bachelor of Science)	97	OBC-NCL	All India	1	Fresh Allotment	19802345	OBC-NCL	--	2833
+181	Chemistry (4 Years, Bachelor of Science)	52	OBC-NCL	All India	1	Fresh Allotment	17731790	OBC-NCL	--	2841
+182	Chemistry (4 Years, Bachelor of Science)	8	OBC-NCL	All India	1	Fresh Allotment	19701555	OBC-NCL	--	2971
+183	Chemistry (4 Years, Bachelor of Science)	5	OBC-NCL	All India	1	Fresh Allotment	19812050	OBC-NCL	--	2982
+184	Chemistry (4 Years, Bachelor of Science)	2	Open	All India	1	Fresh Allotment	21204356	GENERAL	--	4534
+185	Chemistry (4 Years, Bachelor of Science)	100	Open	All India	1	Fresh Allotment	21209278	GENERAL	--	4598
+186	Chemistry (4 Years, Bachelor of Science)	51	Open	All India	1	Fresh Allotment	19705910	GENERAL	--	4923
+187	Chemistry (4 Years, Bachelor of Science)	44	Open	All India	1	Fresh Allotment	17703347	GENERAL	--	4928
+188	Chemistry (4 Years, Bachelor of Science)	4	Open	All India	1	Fresh Allotment	20210012	GENERAL	--	5191
+189	Chemistry (4 Years, Bachelor of Science)	2	Open	All India	1	Fresh Allotment	11302853	GENERAL	--	5249
+190	Chemistry (4 Years, Bachelor of Science)	34	Open	All India	1	Fresh Allotment	19702052	GENERAL	--	5270
+191	Chemistry (4 Years, Bachelor of Science)	25	Open	All India	1	Fresh Allotment	18422615	GENERAL	--	5432
+192	Chemistry (4 Years, Bachelor of Science)	12	Open	All India	1	Fresh Allotment	17304686	GENERAL	--	5541
+193	Chemistry (4 Years, Bachelor of Science)	28	Open	All India	1	Fresh Allotment	11633672	GENERAL	--	5580
+194	Chemistry (4 Years, Bachelor of Science)	35	Open	All India	1	Fresh Allotment	21201526	GENERAL	--	5645
+195	Chemistry (4 Years, Bachelor of Science)	31	Open	All India	1	Fresh Allotment	19904829	GENERAL	--	5652
+196	Chemistry (4 Years, Bachelor of Science)	27	Open	All India	1	Fresh Allotment	19707916	GENERAL	--	5691
+197	Chemistry (4 Years, Bachelor of Science)	17	Open	All India	1	Fresh Allotment	11605191	GENERAL	--	5755
+198	Chemistry (4 Years, Bachelor of Science)	26	Open	All India	1	Fresh Allotment	19209932	GENERAL	--	5824
+199	Chemistry (4 Years, Bachelor of Science)	3	Open	All India	1	Fresh Allotment	14110030	GENERAL	--	5909
+200	Chemistry (4 Years, Bachelor of Science)	18	Open	All India	1	Fresh Allotment	11606508	GENERAL	--	6003
+201	Civil Engineering (4 Years, Bachelor of Technology)	15	OBC-NCL(PwD)	All India	1	Fresh Allotment	17722046	OBC-NCL(PWD)	--	39
+202	Civil Engineering (4 Years, Bachelor of Technology)	5	ST	All India	1	Fresh Allotment	17711123	ST	--	62
+203	Civil Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	10716811	ST	--	72
+204	Civil Engineering (4 Years, Bachelor of Technology)	13	Open(PwD)	All India	1	Fresh Allotment	11105249	GENERAL(PWD)	--	88
+205	Civil Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	17716674	ST	--	105
+206	Civil Engineering (4 Years, Bachelor of Technology)	1	ST	All India	1	Fresh Allotment	17715022	ST	--	112
+207	Civil Engineering (4 Years, Bachelor of Technology)	7	ST	All India	1	Fresh Allotment	17700063	ST	--	150
+208	Civil Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	11623986	ST	--	168
+209	Civil Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	15000384	ST	--	171
+210	Civil Engineering (4 Years, Bachelor of Technology)	6	ST	All India	1	Fresh Allotment	17713806	ST	--	183
+211	Civil Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19806213	SC	--	308
+212	Civil Engineering (4 Years, Bachelor of Technology)	14	SC	All India	1	Fresh Allotment	19704409	SC	--	438
+213	Civil Engineering (4 Years, Bachelor of Technology)	13	SC	All India	1	Fresh Allotment	11628720	SC	--	481
+214	Civil Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	19702438	SC	--	487
+215	Civil Engineering (4 Years, Bachelor of Technology)	4	SC	All India	1	Fresh Allotment	13703158	SC	--	523
+216	Civil Engineering (4 Years, Bachelor of Technology)	14	SC	All India	1	Fresh Allotment	19706227	SC	--	527
+217	Civil Engineering (4 Years, Bachelor of Technology)	15	SC	All India	1	Fresh Allotment	17802263	SC	--	532
+218	Civil Engineering (4 Years, Bachelor of Technology)	32	SC	All India	1	Fresh Allotment	11605342	SC	--	561
+219	Civil Engineering (4 Years, Bachelor of Technology)	18	SC	All India	1	Fresh Allotment	17731525	SC	--	562
+220	Civil Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	17101341	SC	--	589
+221	Civil Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	57702047	SC	--	601
+222	Civil Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	17739536	SC	--	603
+223	Civil Engineering (4 Years, Bachelor of Technology)	32	SC	All India	1	Fresh Allotment	11113319	SC	--	610
+224	Civil Engineering (4 Years, Bachelor of Technology)	28	SC	All India	1	Fresh Allotment	19816821	SC	--	635.01
+225	Civil Engineering (4 Years, Bachelor of Technology)	26	SC	All India	1	Fresh Allotment	11632354	SC	--	642
+226	Civil Engineering (4 Years, Bachelor of Technology)	11	SC	All India	1	Fresh Allotment	17711038	SC	--	650
+227	Civil Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	19716048	OBC-NCL	--	756.01
+228	Civil Engineering (4 Years, Bachelor of Technology)	47	OBC-NCL	All India	1	Fresh Allotment	13001969	OBC-NCL	--	974
+229	Civil Engineering (4 Years, Bachelor of Technology)	29	OBC-NCL	All India	1	Fresh Allotment	19302626	OBC-NCL	--	976
+230	Civil Engineering (4 Years, Bachelor of Technology)	12	OBC-NCL	All India	1	Fresh Allotment	19302248	OBC-NCL	--	984
+231	Civil Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	14001155	OBC-NCL	--	1005
+232	Civil Engineering (4 Years, Bachelor of Technology)	23	OBC-NCL	All India	1	Fresh Allotment	10513109	OBC-NCL	--	1006
+233	Civil Engineering (4 Years, Bachelor of Technology)	17	OBC-NCL	All India	1	Fresh Allotment	17706472	OBC-NCL	--	1041.01
+234	Civil Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	14902164	OBC-NCL	--	1066
+235	Civil Engineering (4 Years, Bachelor of Technology)	19	OBC-NCL	All India	1	Fresh Allotment	17800419	OBC-NCL	--	1091
+236	Civil Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	17709540	OBC-NCL	--	1092
+237	Civil Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	12500929	OBC-NCL	--	1096
+238	Civil Engineering (4 Years, Bachelor of Technology)	21	OBC-NCL	All India	1	Fresh Allotment	17714027	OBC-NCL	--	1110
+239	Civil Engineering (4 Years, Bachelor of Technology)	33	OBC-NCL	All India	1	Fresh Allotment	11622525	OBC-NCL	--	1111
+240	Civil Engineering (4 Years, Bachelor of Technology)	24	OBC-NCL	All India	1	Fresh Allotment	19903941	OBC-NCL	--	1112
+241	Civil Engineering (4 Years, Bachelor of Technology)	48	OBC-NCL	All India	1	Fresh Allotment	17500590	OBC-NCL	--	1129
+242	Civil Engineering (4 Years, Bachelor of Technology)	17	OBC-NCL	All India	1	Fresh Allotment	14802449	OBC-NCL	--	1131
+243	Civil Engineering (4 Years, Bachelor of Technology)	20	OBC-NCL	All India	1	Fresh Allotment	11203640	OBC-NCL	--	1135
+244	Civil Engineering (4 Years, Bachelor of Technology)	35	OBC-NCL	All India	1	Fresh Allotment	17714911	OBC-NCL	--	1149
+245	Civil Engineering (4 Years, Bachelor of Technology)	29	OBC-NCL	All India	1	Fresh Allotment	17801210	OBC-NCL	--	1173
+246	Civil Engineering (4 Years, Bachelor of Technology)	14	OBC-NCL	All India	1	Fresh Allotment	17402287	OBC-NCL	--	1181
+247	Civil Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	19716389	OBC-NCL	--	1187
+248	Civil Engineering (4 Years, Bachelor of Technology)	23	OBC-NCL	All India	1	Fresh Allotment	17719335	OBC-NCL	--	1188
+249	Civil Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11109396	OBC-NCL	--	1194
+250	Civil Engineering (4 Years, Bachelor of Technology)	40	OBC-NCL	All India	1	Fresh Allotment	13903370	OBC-NCL	--	1196
+251	Civil Engineering (4 Years, Bachelor of Technology)	44	OBC-NCL	All India	1	Fresh Allotment	17806580	OBC-NCL	--	1201
+252	Civil Engineering (4 Years, Bachelor of Technology)	22	OBC-NCL	All India	1	Fresh Allotment	17729579	OBC-NCL	--	1202
+253	Civil Engineering (4 Years, Bachelor of Technology)	41	OBC-NCL	All India	1	Fresh Allotment	19301731	OBC-NCL	--	1204
+254	Civil Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	19707114	GENERAL	--	1718
+255	Civil Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	19505541	GENERAL	--	2110
+256	Civil Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	19700045	GENERAL	--	2197
+257	Civil Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	20303214	GENERAL	--	2738
+258	Civil Engineering (4 Years, Bachelor of Technology)	19	Open	All India	1	Fresh Allotment	14903386	GENERAL	--	2788
+259	Civil Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	11204832	GENERAL	--	2799
+260	Civil Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	19206189	GENERAL	--	2811
+261	Civil Engineering (4 Years, Bachelor of Technology)	24	Open	All India	1	Fresh Allotment	17716169	GENERAL	--	2869
+262	Civil Engineering (4 Years, Bachelor of Technology)	24	Open	All India	1	Fresh Allotment	14900969	GENERAL	--	2902
+263	Civil Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	18104518	GENERAL	--	2912
+264	Civil Engineering (4 Years, Bachelor of Technology)	33	Open	All India	1	Fresh Allotment	19203695	GENERAL	--	2940
+265	Civil Engineering (4 Years, Bachelor of Technology)	42	Open	All India	1	Fresh Allotment	14802600	GENERAL	--	2947
+266	Civil Engineering (4 Years, Bachelor of Technology)	37	Open	All India	1	Fresh Allotment	14805421	GENERAL	--	2957
+267	Civil Engineering (4 Years, Bachelor of Technology)	31	Open	All India	1	Fresh Allotment	19909529	GENERAL	--	2964
+268	Civil Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	11135152	GENERAL	--	2988
+269	Civil Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	11636080	GENERAL	--	2991
+270	Civil Engineering (4 Years, Bachelor of Technology)	58	Open	All India	1	Fresh Allotment	15001588	GENERAL	--	2999
+271	Civil Engineering (4 Years, Bachelor of Technology)	45	Open	All India	1	Fresh Allotment	17701880	GENERAL	--	3021
+272	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	19809930	GENERAL	--	3028
+273	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	19205132	GENERAL	--	3031
+274	Civil Engineering (4 Years, Bachelor of Technology)	38	Open	All India	1	Fresh Allotment	18801905	GENERAL	--	3062
+275	Civil Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	14901903	GENERAL	--	3066
+276	Civil Engineering (4 Years, Bachelor of Technology)	1	Open	All India	1	Fresh Allotment	19305721	GENERAL	--	3081
+277	Civil Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	15600181	GENERAL	--	3084
+278	Civil Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	19806708	GENERAL	--	3130
+279	Civil Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	12804550	GENERAL	--	3131
+280	Civil Engineering (4 Years, Bachelor of Technology)	22	Open	All India	1	Fresh Allotment	12600861	GENERAL	--	3146
+281	Civil Engineering (4 Years, Bachelor of Technology)	28	Open	All India	1	Fresh Allotment	11125985	GENERAL	--	3147
+282	Civil Engineering (4 Years, Bachelor of Technology)	54	Open	All India	1	Fresh Allotment	15014979	GENERAL	--	3174
+283	Civil Engineering (4 Years, Bachelor of Technology)	52	Open	All India	1	Fresh Allotment	20001725	GENERAL	--	3175
+284	Civil Engineering (4 Years, Bachelor of Technology)	28	Open	All India	1	Fresh Allotment	14008561	GENERAL	--	3179
+285	Civil Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	15006596	GENERAL	--	3182
+286	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	12601804	GENERAL	--	3189
+287	Civil Engineering (4 Years, Bachelor of Technology)	49	Open	All India	1	Fresh Allotment	17802443	GENERAL	--	3191
+288	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	19806627	GENERAL	--	3234
+289	Civil Engineering (4 Years, Bachelor of Technology)	54	Open	All India	1	Fresh Allotment	13001316	GENERAL	--	3239
+290	Civil Engineering (4 Years, Bachelor of Technology)	37	Open	All India	1	Fresh Allotment	15004275	GENERAL	--	3246
+291	Civil Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	17710189	GENERAL	--	3247
+292	Civil Engineering (4 Years, Bachelor of Technology)	43	Open	All India	1	Fresh Allotment	17714955	GENERAL	--	3269
+293	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	15906195	GENERAL	--	3270
+294	Civil Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	19808473	GENERAL	--	3275
+295	Civil Engineering (4 Years, Bachelor of Technology)	28	Open	All India	1	Fresh Allotment	21206362	GENERAL	--	3281
+296	Civil Engineering (4 Years, Bachelor of Technology)	34	Open	All India	1	Fresh Allotment	11650230	GENERAL	--	3292
+297	Civil Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	11129461	GENERAL	--	3293
+298	Civil Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	12100620	GENERAL	--	3309
+299	Civil Engineering (4 Years, Bachelor of Technology)	38	Open	All India	1	Fresh Allotment	17725810	GENERAL	--	3312
+300	Civil Engineering (4 Years, Bachelor of Technology)	31	Open	All India	1	Fresh Allotment	14903030	GENERAL	--	3315
+301	Civil Engineering (4 Years, Bachelor of Technology)	58	Open	All India	1	Fresh Allotment	17500139	GENERAL	--	3319
+302	Civil Engineering (4 Years, Bachelor of Technology)	33	Open	All India	1	Fresh Allotment	14902316	GENERAL	--	3321
+303	Civil Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	17709283	GENERAL	--	3323
+304	Civil Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	17710444	GENERAL	--	3326
+305	Civil Engineering (4 Years, Bachelor of Technology)	42	Open	All India	1	Fresh Allotment	11608919	GENERAL	--	3356
+306	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL(PwD)	All India	1	Fresh Allotment	11610853	OBC-NCL(PWD)	--	2
+307	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open(PwD)	All India	1	Fresh Allotment	15615898	GENERAL(PWD)	--	5
+308	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	17600128	ST	--	31
+309	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	ST	All India	1	Fresh Allotment	10904941	ST	--	37
+310	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19816538	SC	--	37
+311	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	21204478	SC	--	41
+312	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	18451377	ST	--	41
+313	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	12903021	SC	--	42
+314	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	ST	All India	1	Fresh Allotment	15500051	ST	--	44
+315	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	17707655	SC	--	45
+316	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	14803077	ST	--	47
+317	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	21204458	ST	--	48
+318	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	19808813	SC	--	49
+319	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	SC	All India	1	Fresh Allotment	11623336	SC	--	56
+320	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	14008869	SC	--	62
+321	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	SC	All India	1	Fresh Allotment	11800593	SC	--	63
+322	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	11105946	OBC-NCL	--	64
+323	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	11627018	SC	--	65
+324	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	17710603	OBC-NCL	--	67
+325	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	15003637	SC	--	67
+326	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	17712335	OBC-NCL	--	69
+327	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	11600059	SC	--	70
+328	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11803126	OBC-NCL	--	71
+329	Computer Science and Engineering (4 Years, Bachelor of Technology)	5	SC	All India	1	Fresh Allotment	11208218	SC	--	72
+330	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	SC	All India	1	Fresh Allotment	15609133	SC	--	75
+331	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	13904090	OBC-NCL	--	76
+332	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	15005925	OBC-NCL	--	81
+333	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	17709192	OBC-NCL	--	83
+334	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	15009172	OBC-NCL	--	85
+335	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	17702166	OBC-NCL	--	88
+336	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11003364	OBC-NCL	--	89
+337	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	10512893	OBC-NCL	--	91
+338	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	17716577	OBC-NCL	--	93
+339	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11619987	OBC-NCL	--	95
+340	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	15902271	OBC-NCL	--	98
+341	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	19802886	OBC-NCL	--	98
+342	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	18453027	OBC-NCL	--	100
+343	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	13701827	OBC-NCL	--	101
+344	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	15508541	OBC-NCL	--	103
+345	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	15710851	GENERAL	--	104
+346	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	11108323	OBC-NCL	--	105
+347	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	10421687	GENERAL	--	107
+348	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11000421	OBC-NCL	--	109
+349	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	19203569	GENERAL	--	113
+350	Computer Science and Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	11125179	OBC-NCL	--	114
+351	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	17800627	OBC-NCL	--	115
+352	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	14902269	GENERAL	--	116
+353	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	13901620	GENERAL	--	120
+354	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	14810446	GENERAL	--	121
+355	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21201856	GENERAL	--	123
+356	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	15724406	GENERAL	--	124
+357	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	16002136	GENERAL	--	135
+358	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11603229	GENERAL	--	142
+359	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11637580	GENERAL	--	143
+360	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17401108	GENERAL	--	144
+361	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	55002337	GENERAL	--	148
+362	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11627105	GENERAL	--	151
+363	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	13100200	GENERAL	--	154
+364	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11203747	GENERAL	--	155
+365	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	14011043	GENERAL	--	156
+366	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	15500143	GENERAL	--	162
+367	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	19402496	GENERAL	--	164
+368	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	15510136	GENERAL	--	165
+369	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17709336	GENERAL	--	168
+370	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17713875	GENERAL	--	169
+371	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	14000594	GENERAL	--	172
+372	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	11635666	GENERAL	--	175
+373	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	11602091	GENERAL	--	176
+374	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21208737	GENERAL	--	179
+375	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	20211552	GENERAL	--	181
+376	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	13703412	GENERAL	--	182
+377	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21200106	GENERAL	--	183
+378	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21201177	GENERAL	--	185
+379	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	10420456	GENERAL	--	186
+380	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11203313	GENERAL	--	187
+381	Computer Science and Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	11303150	GENERAL	--	188
+382	Computer Science and Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	14604273	GENERAL	--	189
+383	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	14006576	GENERAL	--	190
+384	Computer Science and Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	12904787	GENERAL	--	191
+385	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	13000829	GENERAL	--	192
+386	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	13000741	GENERAL	--	194
+387	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	14003878	GENERAL	--	194
+388	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17801021	GENERAL	--	196
+389	Computer Science and Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	13003699	GENERAL	--	201
+390	Computer Science and Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	17716266	GENERAL	--	203
+391	Earth Sciences (4 Years, Bachelor of Science)	10	ST	All India	1	Fresh Allotment	10715675	ST	--	908
+392	Earth Sciences (4 Years, Bachelor of Science)	68	ST	All India	1	Fresh Allotment	18432852	ST	--	951
+393	Earth Sciences (4 Years, Bachelor of Science)	104	ST	All India	1	Fresh Allotment	17714422	ST	--	964
+394	Earth Sciences (4 Years, Bachelor of Science)	8	SC	All India	1	Fresh Allotment	10403003	SC	--	1408
+395	Earth Sciences (4 Years, Bachelor of Science)	153	SC	All India	1	Fresh Allotment	12501705	SC	--	1806
+396	Earth Sciences (4 Years, Bachelor of Science)	17	SC	All India	1	Fresh Allotment	19708214	SC	--	1812
+397	Earth Sciences (4 Years, Bachelor of Science)	1	SC	All India	1	Fresh Allotment	19715716	SC	--	1820
+398	Earth Sciences (4 Years, Bachelor of Science)	162	OBC-NCL	All India	1	Fresh Allotment	18442832	OBC-NCL	--	2878
+399	Earth Sciences (4 Years, Bachelor of Science)	22	OBC-NCL	All India	1	Fresh Allotment	11631106	OBC-NCL	--	3169
+400	Earth Sciences (4 Years, Bachelor of Science)	187	OBC-NCL	All India	1	Fresh Allotment	10509297	OBC-NCL	--	3220
+401	Earth Sciences (4 Years, Bachelor of Science)	63	OBC-NCL	All India	1	Fresh Allotment	11633992	OBC-NCL	--	3233.01
+402	Earth Sciences (4 Years, Bachelor of Science)	35	OBC-NCL	All India	1	Fresh Allotment	19816440	OBC-NCL	--	3234
+403	Earth Sciences (4 Years, Bachelor of Science)	48	OBC-NCL	All India	1	Fresh Allotment	17716148	OBC-NCL	--	3245
+404	Earth Sciences (4 Years, Bachelor of Science)	115	OBC-NCL	All India	1	Fresh Allotment	17738802	OBC-NCL	--	3247
+405	Earth Sciences (4 Years, Bachelor of Science)	30	OBC-NCL	All India	1	Fresh Allotment	10902932	OBC-NCL	--	3256
+406	Earth Sciences (4 Years, Bachelor of Science)	73	Open	All India	1	Fresh Allotment	18306252	GENERAL	--	4661
+407	Earth Sciences (4 Years, Bachelor of Science)	44	Open	All India	1	Fresh Allotment	11208538	GENERAL	--	4920
+408	Earth Sciences (4 Years, Bachelor of Science)	30	Open	All India	1	Fresh Allotment	11641175	GENERAL	--	4968
+409	Earth Sciences (4 Years, Bachelor of Science)	35	Open	All India	1	Fresh Allotment	11643584	GENERAL	--	5079
+410	Earth Sciences (4 Years, Bachelor of Science)	26	Open	All India	1	Fresh Allotment	13002595	GENERAL	--	5200
+411	Earth Sciences (4 Years, Bachelor of Science)	25	Open	All India	1	Fresh Allotment	19811046	GENERAL	--	5299
+412	Earth Sciences (4 Years, Bachelor of Science)	13	Open	All India	1	Fresh Allotment	19709460	GENERAL	--	5528
+413	Earth Sciences (4 Years, Bachelor of Science)	31	Open	All India	1	Fresh Allotment	19701793	GENERAL	--	5614
+414	Earth Sciences (4 Years, Bachelor of Science)	126	Open	All India	1	Fresh Allotment	19707369	GENERAL	--	5627
+415	Earth Sciences (4 Years, Bachelor of Science)	12	Open	All India	1	Fresh Allotment	15915055	GENERAL	--	5640
+416	Earth Sciences (4 Years, Bachelor of Science)	59	Open	All India	1	Fresh Allotment	15003747	GENERAL	--	5866
+417	Earth Sciences (4 Years, Bachelor of Science)	44	Open	All India	1	Fresh Allotment	15618621	GENERAL	--	6011
+418	Earth Sciences (4 Years, Bachelor of Science)	16	Open	All India	1	Fresh Allotment	12900056	GENERAL	--	6025
+419	Earth Sciences (4 Years, Bachelor of Science)	3	Open	All India	1	Fresh Allotment	15600514	GENERAL	--	6041
+420	Earth Sciences (4 Years, Bachelor of Science)	42	Open	All India	1	Fresh Allotment	51602890	GENERAL	--	6089
+421	Economics (4 Years, Bachelor of Science)	6	Open(PwD)	All India	1	Fresh Allotment	54803679	GENERAL(PWD)	--	114
+422	Economics (4 Years, Bachelor of Science)	37	ST	All India	1	Fresh Allotment	21207066	ST	--	451
+423	Economics (4 Years, Bachelor of Science)	8	ST	All India	1	Fresh Allotment	13602174	ST	--	510
+424	Economics (4 Years, Bachelor of Science)	75	ST	All India	1	Fresh Allotment	18500698	ST	--	690
+425	Economics (4 Years, Bachelor of Science)	24	SC	All India	1	Fresh Allotment	19709205	SC	--	694
+426	Economics (4 Years, Bachelor of Science)	16	SC	All India	1	Fresh Allotment	19804807	SC	--	717
+427	Economics (4 Years, Bachelor of Science)	6	SC	All India	1	Fresh Allotment	11617600	SC	--	814
+428	Economics (4 Years, Bachelor of Science)	30	SC	All India	1	Fresh Allotment	19803281	SC	--	865
+429	Economics (4 Years, Bachelor of Science)	2	SC	All India	1	Fresh Allotment	19702352	SC	--	868
+430	Economics (4 Years, Bachelor of Science)	20	SC	All India	1	Fresh Allotment	14902116	SC	--	984
+431	Economics (4 Years, Bachelor of Science)	22	OBC-NCL	All India	1	Fresh Allotment	17708037	OBC-NCL	--	1087
+432	Economics (4 Years, Bachelor of Science)	5	OBC-NCL	All India	1	Fresh Allotment	17501603	OBC-NCL	--	1339
+433	Economics (4 Years, Bachelor of Science)	28	OBC-NCL	All India	1	Fresh Allotment	17720709	OBC-NCL	--	1431
+434	Economics (4 Years, Bachelor of Science)	20	OBC-NCL	All India	1	Fresh Allotment	17711167	OBC-NCL	--	1441
+435	Economics (4 Years, Bachelor of Science)	12	OBC-NCL	All India	1	Fresh Allotment	13804942	OBC-NCL	--	1471
+436	Economics (4 Years, Bachelor of Science)	42	OBC-NCL	All India	1	Fresh Allotment	17901514	OBC-NCL	--	1496
+437	Economics (4 Years, Bachelor of Science)	12	Open	All India	1	Fresh Allotment	17705744	GENERAL	--	1559
+438	Economics (4 Years, Bachelor of Science)	28	OBC-NCL	All India	1	Fresh Allotment	17707477	OBC-NCL	--	1587
+439	Economics (4 Years, Bachelor of Science)	11	OBC-NCL	All India	1	Fresh Allotment	17726773	OBC-NCL	--	1589
+440	Economics (4 Years, Bachelor of Science)	1	OBC-NCL	All India	1	Fresh Allotment	21208885	OBC-NCL	--	1606
+441	Economics (4 Years, Bachelor of Science)	20	OBC-NCL	All India	1	Fresh Allotment	17705945	OBC-NCL	--	1607
+442	Economics (4 Years, Bachelor of Science)	3	Open	All India	1	Fresh Allotment	15006176	GENERAL	--	1877
+443	Economics (4 Years, Bachelor of Science)	30	Open	All India	1	Fresh Allotment	17710471	GENERAL	--	1925
+444	Economics (4 Years, Bachelor of Science)	7	Open	All India	1	Fresh Allotment	17716765	GENERAL	--	2086
+445	Economics (4 Years, Bachelor of Science)	21	Open	All India	1	Fresh Allotment	15006868	GENERAL	--	2239
+446	Economics (4 Years, Bachelor of Science)	32	Open	All India	1	Fresh Allotment	17713418	GENERAL	--	2299
+447	Economics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	17600537	GENERAL	--	2304
+448	Economics (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	15806886	GENERAL	--	2405
+449	Economics (4 Years, Bachelor of Science)	24	Open	All India	1	Fresh Allotment	17901295	GENERAL	--	2488
+450	Economics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	11637632	GENERAL	--	2566
+451	Economics (4 Years, Bachelor of Science)	42	Open	All India	1	Fresh Allotment	15103854	GENERAL	--	2606
+452	Economics (4 Years, Bachelor of Science)	46	Open	All India	1	Fresh Allotment	17738807	GENERAL	--	2663
+453	Economics (4 Years, Bachelor of Science)	46	Open	All India	1	Fresh Allotment	15302387	GENERAL	--	2676
+454	Economics (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	15620000	GENERAL	--	2677
+455	Economics (4 Years, Bachelor of Science)	25	Open	All India	1	Fresh Allotment	17712100	GENERAL	--	2707
+456	Economics (4 Years, Bachelor of Science)	34	Open	All India	1	Fresh Allotment	21205803	GENERAL	--	2730
+457	Economics (4 Years, Bachelor of Science)	23	Open	All India	1	Fresh Allotment	15300883	GENERAL	--	2771
+458	Economics (4 Years, Bachelor of Science)	8	Open	All India	1	Fresh Allotment	17401204	GENERAL	--	2792
+459	Electrical Engineering (4 Years, Bachelor of Technology)	11	OBC-NCL(PwD)	All India	1	Fresh Allotment	11117765	OBC-NCL(PWD)	--	11.01
+460	Electrical Engineering (4 Years, Bachelor of Technology)	4	Open(PwD)	All India	1	Fresh Allotment	11201301	GENERAL(PWD)	--	22
+461	Electrical Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	17717233	ST	--	46
+462	Electrical Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	17722580	ST	--	49
+463	Electrical Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	19800653	ST	--	51
+464	Electrical Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	17714920	ST	--	55
+465	Electrical Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	17711243	ST	--	61
+466	Electrical Engineering (4 Years, Bachelor of Technology)	4	ST	All India	1	Fresh Allotment	17707454	ST	--	84
+467	Electrical Engineering (4 Years, Bachelor of Technology)	5	ST	All India	1	Fresh Allotment	10713351	ST	--	114
+468	Electrical Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	15807847	SC	--	118
+469	Electrical Engineering (4 Years, Bachelor of Technology)	6	SC	All India	1	Fresh Allotment	17706086	SC	--	119
+470	Electrical Engineering (4 Years, Bachelor of Technology)	9	ST	All India	1	Fresh Allotment	13400375	ST	--	129
+471	Electrical Engineering (4 Years, Bachelor of Technology)	8	ST	All India	1	Fresh Allotment	19303020	ST	--	139
+472	Electrical Engineering (4 Years, Bachelor of Technology)	9	SC	All India	1	Fresh Allotment	19803795	SC	--	141
+473	Electrical Engineering (4 Years, Bachelor of Technology)	6	SC	All India	1	Fresh Allotment	17709388	SC	--	144
+474	Electrical Engineering (4 Years, Bachelor of Technology)	3	ST	All India	1	Fresh Allotment	17701672	ST	--	145
+475	Electrical Engineering (4 Years, Bachelor of Technology)	8	SC	All India	1	Fresh Allotment	17729386	SC	--	195
+476	Electrical Engineering (4 Years, Bachelor of Technology)	9	SC	All India	1	Fresh Allotment	17801054	SC	--	201
+477	Electrical Engineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	17716864	OBC-NCL	--	204
+478	Electrical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	19707724	OBC-NCL	--	205
+479	Electrical Engineering (4 Years, Bachelor of Technology)	8	SC	All India	1	Fresh Allotment	10904227	SC	--	208
+480	Electrical Engineering (4 Years, Bachelor of Technology)	7	SC	All India	1	Fresh Allotment	11618545	SC	--	210
+481	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	16808333	OBC-NCL	--	213
+482	Electrical Engineering (4 Years, Bachelor of Technology)	14	SC	All India	1	Fresh Allotment	10514415	SC	--	217
+483	Electrical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	10905036	OBC-NCL	--	218
+484	Electrical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11631138	OBC-NCL	--	221
+485	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	17733741	OBC-NCL	--	225
+486	Electrical Engineering (4 Years, Bachelor of Technology)	10	SC	All India	1	Fresh Allotment	21202821	SC	--	227
+487	Electrical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	17730417	OBC-NCL	--	229
+488	Electrical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	11800787	OBC-NCL	--	233
+489	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	14801398	OBC-NCL	--	235
+490	Electrical Engineering (4 Years, Bachelor of Technology)	9	SC	All India	1	Fresh Allotment	17601481	SC	--	236
+491	Electrical Engineering (4 Years, Bachelor of Technology)	11	SC	All India	1	Fresh Allotment	15712989	SC	--	237
+492	Electrical Engineering (4 Years, Bachelor of Technology)	12	SC	All India	1	Fresh Allotment	17801949	SC	--	239
+493	Electrical Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	17800095	SC	--	240
+494	Electrical Engineering (4 Years, Bachelor of Technology)	6	OBC-NCL	All India	1	Fresh Allotment	18102299	OBC-NCL	--	240
+495	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	14407113	OBC-NCL	--	241
+496	Electrical Engineering (4 Years, Bachelor of Technology)	15	SC	All India	1	Fresh Allotment	15610295	SC	--	243
+497	Electrical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	16806360	OBC-NCL	--	244
+498	Electrical Engineering (4 Years, Bachelor of Technology)	6	SC	All India	1	Fresh Allotment	18702635	SC	--	244
+499	Electrical Engineering (4 Years, Bachelor of Technology)	6	SC	All India	1	Fresh Allotment	21200684	SC	--	246
+500	Electrical Engineering (4 Years, Bachelor of Technology)	12	SC	All India	1	Fresh Allotment	15101852	SC	--	248
+501	Electrical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	16807911	OBC-NCL	--	250
+502	Electrical Engineering (4 Years, Bachelor of Technology)	10	SC	All India	1	Fresh Allotment	17714171	SC	--	250
+503	Electrical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	19402273	OBC-NCL	--	254
+504	Electrical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	14903725	OBC-NCL	--	261
+505	Electrical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	18109519	OBC-NCL	--	262
+506	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	11624608	OBC-NCL	--	274
+507	Electrical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	17709471	OBC-NCL	--	281
+508	Electrical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	11128285	OBC-NCL	--	287
+509	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	17714764	OBC-NCL	--	305
+510	Electrical Engineering (4 Years, Bachelor of Technology)	6	OBC-NCL	All India	1	Fresh Allotment	10508962	OBC-NCL	--	306
+511	Electrical Engineering (4 Years, Bachelor of Technology)	11	OBC-NCL	All India	1	Fresh Allotment	14901549	OBC-NCL	--	317
+512	Electrical Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	18453335	OBC-NCL	--	327
+513	Electrical Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	19309980	OBC-NCL	--	331
+514	Electrical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	17705318	OBC-NCL	--	332
+515	Electrical Engineering (4 Years, Bachelor of Technology)	11	OBC-NCL	All India	1	Fresh Allotment	17736407	OBC-NCL	--	334
+516	Electrical Engineering (4 Years, Bachelor of Technology)	11	OBC-NCL	All India	1	Fresh Allotment	11004749	OBC-NCL	--	337
+517	Electrical Engineering (4 Years, Bachelor of Technology)	14	OBC-NCL	All India	1	Fresh Allotment	10516505	OBC-NCL	--	342
+518	Electrical Engineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	11011980	OBC-NCL	--	348
+519	Electrical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	12903904	OBC-NCL	--	349
+520	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	19811743	GENERAL	--	354
+521	Electrical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	17716311	OBC-NCL	--	355
+522	Electrical Engineering (4 Years, Bachelor of Technology)	10	OBC-NCL	All India	1	Fresh Allotment	13102448	OBC-NCL	--	366
+523	Electrical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	17708965	OBC-NCL	--	368
+524	Electrical Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	17701576	OBC-NCL	--	373
+525	Electrical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	17716208	GENERAL	--	456
+526	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	21200219	GENERAL	--	466
+527	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	17501631	GENERAL	--	471
+528	Electrical Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	19810144	GENERAL	--	484
+529	Electrical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21200835	GENERAL	--	485
+530	Electrical Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	16904286	GENERAL	--	500
+531	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	11611117	GENERAL	--	524
+532	Electrical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	17703406	GENERAL	--	530
+533	Electrical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	11630988	GENERAL	--	531
+534	Electrical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	11114892	GENERAL	--	536
+535	Electrical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	14902011	GENERAL	--	558
+536	Electrical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	15938609	GENERAL	--	563
+537	Electrical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	17900761	GENERAL	--	572
+538	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	17600349	GENERAL	--	578
+539	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	16806880	GENERAL	--	579
+540	Electrical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	18439765	GENERAL	--	580
+541	Electrical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	21204331	GENERAL	--	582
+542	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	19708494	GENERAL	--	594
+543	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	11620566	GENERAL	--	598
+544	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	12803372	GENERAL	--	599
+545	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	13804506	GENERAL	--	601
+546	Electrical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	21204298	GENERAL	--	603
+547	Electrical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	17802155	GENERAL	--	620
+548	Electrical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	11205936	GENERAL	--	622
+549	Electrical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	17902333	GENERAL	--	623
+550	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	11201306	GENERAL	--	624
+551	Electrical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	17712351	GENERAL	--	628
+552	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	19808246	GENERAL	--	629
+553	Electrical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	13302849	GENERAL	--	635
+554	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	14900128	GENERAL	--	637
+555	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	17713623	GENERAL	--	638
+556	Electrical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	11639333	GENERAL	--	640
+557	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	10421371	GENERAL	--	641
+558	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	17739492	GENERAL	--	643
+559	Electrical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	11210682	GENERAL	--	644
+560	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	20206773	GENERAL	--	649
+561	Electrical Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	11610280	GENERAL	--	650
+562	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	12800787	GENERAL	--	655
+563	Electrical Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	15610357	GENERAL	--	656
+564	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	19812243	GENERAL	--	657
+565	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	54105172	GENERAL	--	666
+566	Electrical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	10209273	GENERAL	--	668
+567	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	17715926	GENERAL	--	670
+568	Electrical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	17708647	GENERAL	--	673
+569	Electrical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	11214262	GENERAL	--	675
+570	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	13002857	GENERAL	--	677
+571	Electrical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	11804603	GENERAL	--	678
+572	Electrical Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	20217376	GENERAL	--	680
+573	Electrical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17705803	GENERAL	--	682
+574	Electrical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	10421639	GENERAL	--	688
+575	Electrical Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	17700458	GENERAL	--	689
+576	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	17709946	GENERAL	--	699
+577	Electrical Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	11205488	GENERAL	--	703
+578	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	19906707	GENERAL	--	715
+579	Electrical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	20203037	GENERAL	--	728
+580	Electrical Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	11619972	GENERAL	--	742
+581	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	13201274	GENERAL	--	743
+582	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	60000713	GENERAL	--	745
+583	Electrical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	11209407	GENERAL	--	778
+584	Electrical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	11616341	GENERAL	--	782
+585	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	19705945	GENERAL	--	783
+586	Electrical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	11204538	GENERAL	--	785
+587	Electrical Engineering (4 Years, Bachelor of Technology)	1	Open	All India	1	Fresh Allotment	12510097	GENERAL	--	791
+588	Electrical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	19302143	GENERAL	--	798
+589	Materials Science and Engineering (4 Years, Bachelor of Technology)	41	OBC-NCL(PwD)	All India	1	Fresh Allotment	14008759	OBC-NCL(PWD)	--	70
+590	Materials Science and Engineering (4 Years, Bachelor of Technology)	29	Open(PwD)	All India	1	Fresh Allotment	19714795	GENERAL(PWD)	--	200
+591	Materials Science and Engineering (4 Years, Bachelor of Technology)	26	ST	All India	1	Fresh Allotment	11612208	ST	--	622
+592	Materials Science and Engineering (4 Years, Bachelor of Technology)	30	ST	All India	1	Fresh Allotment	17701130	ST	--	673
+593	Materials Science and Engineering (4 Years, Bachelor of Technology)	64	ST	All India	1	Fresh Allotment	18412999	ST	--	719
+594	Materials Science and Engineering (4 Years, Bachelor of Technology)	44	ST	All India	1	Fresh Allotment	17714625	ST	--	731
+595	Materials Science and Engineering (4 Years, Bachelor of Technology)	31	SC	All India	1	Fresh Allotment	19201553	SC	--	954
+596	Materials Science and Engineering (4 Years, Bachelor of Technology)	7	SC	All India	1	Fresh Allotment	17715074	SC	--	1004
+597	Materials Science and Engineering (4 Years, Bachelor of Technology)	48	SC	All India	1	Fresh Allotment	11121412	SC	--	1245
+598	Materials Science and Engineering (4 Years, Bachelor of Technology)	39	SC	All India	1	Fresh Allotment	21200176	SC	--	1247
+599	Materials Science and Engineering (4 Years, Bachelor of Technology)	17	SC	All India	1	Fresh Allotment	15718215	SC	--	1308
+600	Materials Science and Engineering (4 Years, Bachelor of Technology)	28	SC	All India	1	Fresh Allotment	11626767	SC	--	1320
+601	Materials Science and Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19810644	SC	--	1346.01
+602	Materials Science and Engineering (4 Years, Bachelor of Technology)	15	SC	All India	1	Fresh Allotment	15617969	SC	--	1376
+603	Materials Science and Engineering (4 Years, Bachelor of Technology)	2	SC	All India	1	Fresh Allotment	15909808	SC	--	1453
+604	Materials Science and Engineering (4 Years, Bachelor of Technology)	5	OBC-NCL	All India	1	Fresh Allotment	19505924	OBC-NCL	--	1454
+605	Materials Science and Engineering (4 Years, Bachelor of Technology)	40	OBC-NCL	All India	1	Fresh Allotment	17729109	OBC-NCL	--	1781
+606	Materials Science and Engineering (4 Years, Bachelor of Technology)	39	OBC-NCL	All India	1	Fresh Allotment	17717376	OBC-NCL	--	1820
+607	Materials Science and Engineering (4 Years, Bachelor of Technology)	36	OBC-NCL	All India	1	Fresh Allotment	13003519	OBC-NCL	--	1836
+608	Materials Science and Engineering (4 Years, Bachelor of Technology)	60	OBC-NCL	All India	1	Fresh Allotment	17726160	OBC-NCL	--	1889
+609	Materials Science and Engineering (4 Years, Bachelor of Technology)	11	OBC-NCL	All India	1	Fresh Allotment	19707306	OBC-NCL	--	1894
+610	Materials Science and Engineering (4 Years, Bachelor of Technology)	6	OBC-NCL	All India	1	Fresh Allotment	19207099	OBC-NCL	--	1906
+611	Materials Science and Engineering (4 Years, Bachelor of Technology)	45	OBC-NCL	All India	1	Fresh Allotment	19704650	OBC-NCL	--	1932
+612	Materials Science and Engineering (4 Years, Bachelor of Technology)	86	OBC-NCL	All India	1	Fresh Allotment	59800077	OBC-NCL	--	1935.01
+613	Materials Science and Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	19505173	OBC-NCL	--	1949
+614	Materials Science and Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	17714937	OBC-NCL	--	1952
+615	Materials Science and Engineering (4 Years, Bachelor of Technology)	52	OBC-NCL	All India	1	Fresh Allotment	17710158	OBC-NCL	--	2004
+616	Materials Science and Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	12901141	OBC-NCL	--	2025
+617	Materials Science and Engineering (4 Years, Bachelor of Technology)	61	OBC-NCL	All India	1	Fresh Allotment	11313431	OBC-NCL	--	2080
+618	Materials Science and Engineering (4 Years, Bachelor of Technology)	81	OBC-NCL	All India	1	Fresh Allotment	15101002	OBC-NCL	--	2096
+619	Materials Science and Engineering (4 Years, Bachelor of Technology)	25	Open	All India	1	Fresh Allotment	11600035	GENERAL	--	2973
+620	Materials Science and Engineering (4 Years, Bachelor of Technology)	50	Open	All India	1	Fresh Allotment	15006134	GENERAL	--	3059
+621	Materials Science and Engineering (4 Years, Bachelor of Technology)	55	Open	All India	1	Fresh Allotment	54107084	GENERAL	--	3133
+622	Materials Science and Engineering (4 Years, Bachelor of Technology)	45	Open	All India	1	Fresh Allotment	18103071	GENERAL	--	3201
+623	Materials Science and Engineering (4 Years, Bachelor of Technology)	32	Open	All India	1	Fresh Allotment	11804013	GENERAL	--	3279
+624	Materials Science and Engineering (4 Years, Bachelor of Technology)	11	Open	All India	1	Fresh Allotment	19704927	GENERAL	--	3359
+625	Materials Science and Engineering (4 Years, Bachelor of Technology)	53	Open	All India	1	Fresh Allotment	17500454	GENERAL	--	3386
+626	Materials Science and Engineering (4 Years, Bachelor of Technology)	30	Open	All India	1	Fresh Allotment	15607842	GENERAL	--	3421
+627	Materials Science and Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	53500202	GENERAL	--	3432
+628	Materials Science and Engineering (4 Years, Bachelor of Technology)	27	Open	All India	1	Fresh Allotment	11627922	GENERAL	--	3467
+629	Materials Science and Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	17716772	GENERAL	--	3481
+630	Materials Science and Engineering (4 Years, Bachelor of Technology)	32	Open	All India	1	Fresh Allotment	15718453	GENERAL	--	3553
+631	Materials Science and Engineering (4 Years, Bachelor of Technology)	19	Open	All India	1	Fresh Allotment	15006418	GENERAL	--	3555
+632	Materials Science and Engineering (4 Years, Bachelor of Technology)	47	Open	All India	1	Fresh Allotment	14007809	GENERAL	--	3585
+633	Materials Science and Engineering (4 Years, Bachelor of Technology)	44	Open	All India	1	Fresh Allotment	15603432	GENERAL	--	3587
+634	Materials Science and Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	14804072	GENERAL	--	3640
+635	Materials Science and Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	15617575	GENERAL	--	3642
+636	Materials Science and Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	18424083	GENERAL	--	3646
+637	Materials Science and Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	17300612	GENERAL	--	3668
+638	Materials Science and Engineering (4 Years, Bachelor of Technology)	64	Open	All India	1	Fresh Allotment	11614611	GENERAL	--	3680
+639	Materials Science and Engineering (4 Years, Bachelor of Technology)	52	Open	All India	1	Fresh Allotment	15601267	GENERAL	--	3703
+640	Materials Science and Engineering (4 Years, Bachelor of Technology)	28	Open	All India	1	Fresh Allotment	16800991	GENERAL	--	3750
+641	Materials Science and Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	11605215	GENERAL	--	3792
+642	Materials Science and Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	15100111	GENERAL	--	3794
+643	Materials Science and Engineering (4 Years, Bachelor of Technology)	70	Open	All India	1	Fresh Allotment	15000340	GENERAL	--	3865
+644	Materials Science and Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	19207388	GENERAL	--	3881
+645	Materials Science and Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	19302191	GENERAL	--	3886
+646	Materials Science and Engineering (4 Years, Bachelor of Technology)	57	Open	All India	1	Fresh Allotment	19200751	GENERAL	--	3893
+647	Materials Science and Engineering (4 Years, Bachelor of Technology)	37	Open	All India	1	Fresh Allotment	20206415	GENERAL	--	3903
+648	Materials Science and Engineering (4 Years, Bachelor of Technology)	31	Open	All India	1	Fresh Allotment	19902284	GENERAL	--	3909
+649	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	5	ST	All India	1	Fresh Allotment	15902861	ST	--	164
+650	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	9	ST	All India	1	Fresh Allotment	58800350	ST	--	211
+651	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	11	OBC-NCL	All India	1	Fresh Allotment	19303013	OBC-NCL	--	263
+652	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	12	ST	All India	1	Fresh Allotment	18803921	ST	--	289
+653	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	7	OBC-NCL	All India	1	Fresh Allotment	17720191	OBC-NCL	--	299
+654	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	53700227	GENERAL	--	305
+655	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	17	ST	All India	1	Fresh Allotment	14406858	ST	--	308.01
+656	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	12	SC	All India	1	Fresh Allotment	15004730	SC	--	316
+657	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	11	SC	All India	1	Fresh Allotment	11630458	SC	--	345
+658	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	8	OBC-NCL	All India	1	Fresh Allotment	11110644	OBC-NCL	--	347
+659	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	4	Open	All India	1	Fresh Allotment	19102072	GENERAL	--	365
+660	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	10	OBC-NCL	All India	1	Fresh Allotment	17800751	OBC-NCL	--	385
+661	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	2	SC	All India	1	Fresh Allotment	17600155	SC	--	393
+662	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	10	OBC-NCL	All India	1	Fresh Allotment	17800229	OBC-NCL	--	397
+663	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	12	OBC-NCL	All India	1	Fresh Allotment	10512837	OBC-NCL	--	416
+664	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	24	SC	All India	1	Fresh Allotment	14901790	SC	--	419
+665	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	15	OBC-NCL	All India	1	Fresh Allotment	11601836	OBC-NCL	--	434
+666	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	12	OBC-NCL	All India	1	Fresh Allotment	13903261	OBC-NCL	--	438
+667	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	5	Open	All India	1	Fresh Allotment	11609660	GENERAL	--	452
+668	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	6	OBC-NCL	All India	1	Fresh Allotment	17714403	OBC-NCL	--	455
+669	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	11	OBC-NCL	All India	1	Fresh Allotment	11002410	OBC-NCL	--	460
+670	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	3	SC	All India	1	Fresh Allotment	11609334	SC	--	462
+671	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	7	OBC-NCL	All India	1	Fresh Allotment	14006624	OBC-NCL	--	462
+672	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	9	OBC-NCL	All India	1	Fresh Allotment	58201365	OBC-NCL	--	468
+673	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	18	OBC-NCL	All India	1	Fresh Allotment	11800112	OBC-NCL	--	478
+674	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	18	SC	All India	1	Fresh Allotment	21205778	SC	--	510
+675	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	4	SC	All India	1	Fresh Allotment	13004311	SC	--	570
+676	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	19910757	GENERAL	--	588
+677	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	9	Open	All India	1	Fresh Allotment	21201924	GENERAL	--	589
+678	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	10	Open	All India	1	Fresh Allotment	11617867	GENERAL	--	593
+679	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	8	Open	All India	1	Fresh Allotment	21200662	GENERAL	--	602
+680	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	11	Open	All India	1	Fresh Allotment	21203028	GENERAL	--	610
+681	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	13	Open	All India	1	Fresh Allotment	11204626	GENERAL	--	639
+682	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	19706413	GENERAL	--	684
+683	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	13	Open	All India	1	Fresh Allotment	13201568	GENERAL	--	687
+684	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	8	Open	All India	1	Fresh Allotment	13003481	GENERAL	--	720
+685	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	19600466	GENERAL	--	734
+686	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	17708855	GENERAL	--	735
+687	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	13	Open	All India	1	Fresh Allotment	17703062	GENERAL	--	768
+688	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	17739993	GENERAL	--	786
+689	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	16	Open	All India	1	Fresh Allotment	11632050	GENERAL	--	817
+690	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	8	Open	All India	1	Fresh Allotment	17901138	GENERAL	--	825
+691	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	12	Open	All India	1	Fresh Allotment	17706380	GENERAL	--	837
+692	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	11636619	GENERAL	--	859
+693	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	5	Open	All India	1	Fresh Allotment	51606762	GENERAL	--	865
+694	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	4	Open	All India	1	Fresh Allotment	15006788	GENERAL	--	868
+695	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	11	Open	All India	1	Fresh Allotment	10423969	GENERAL	--	875
+696	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	14	Open	All India	1	Fresh Allotment	11640036	GENERAL	--	887
+697	Mathematics and Scientific Computing (4 Years, Bachelor of Science)	17	Open	All India	1	Fresh Allotment	17703892	GENERAL	--	899
+698	Mechanical Engineering (4 Years, Bachelor of Technology)	4	ST(PD)	All India	1	Fresh Allotment	14001631	ST(PWD)	Preparatory	3
+699	Mechanical Engineering (4 Years, Bachelor of Technology)	14	Open(PwD)	All India	1	Fresh Allotment	11800367	GENERAL(PWD)	--	26
+700	Mechanical Engineering (4 Years, Bachelor of Technology)	2	ST	All India	1	Fresh Allotment	21207334	ST	--	89
+701	Mechanical Engineering (4 Years, Bachelor of Technology)	4	ST	All India	1	Fresh Allotment	10713062	ST	--	118.01
+702	Mechanical Engineering (4 Years, Bachelor of Technology)	7	ST	All India	1	Fresh Allotment	11606819	ST	--	125
+703	Mechanical Engineering (4 Years, Bachelor of Technology)	12	ST	All India	1	Fresh Allotment	17901033	ST	--	154
+704	Mechanical Engineering (4 Years, Bachelor of Technology)	1	ST	All India	1	Fresh Allotment	15932330	ST	--	159
+705	Mechanical Engineering (4 Years, Bachelor of Technology)	12	ST	All India	1	Fresh Allotment	17740784	ST	--	163
+706	Mechanical Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	19702547	SC	--	187
+707	Mechanical Engineering (4 Years, Bachelor of Technology)	11	SC	All India	1	Fresh Allotment	17300275	SC	--	196
+708	Mechanical Engineering (4 Years, Bachelor of Technology)	15	SC	All India	1	Fresh Allotment	15009415	SC	--	202
+709	Mechanical Engineering (4 Years, Bachelor of Technology)	1	OBC-NCL	All India	1	Fresh Allotment	21200286	OBC-NCL	--	210.01
+710	Mechanical Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	13901406	SC	--	211
+711	Mechanical Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	17302552	SC	--	222
+712	Mechanical Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	17705030	SC	--	258
+713	Mechanical Engineering (4 Years, Bachelor of Technology)	3	SC	All India	1	Fresh Allotment	52600236	SC	--	283
+714	Mechanical Engineering (4 Years, Bachelor of Technology)	15	SC	All India	1	Fresh Allotment	13102330	SC	--	284
+715	Mechanical Engineering (4 Years, Bachelor of Technology)	12	SC	All India	1	Fresh Allotment	19000753	SC	--	291
+716	Mechanical Engineering (4 Years, Bachelor of Technology)	14	SC	All India	1	Fresh Allotment	21203980	SC	--	293
+717	Mechanical Engineering (4 Years, Bachelor of Technology)	28	SC	All India	1	Fresh Allotment	15007816	SC	--	298
+718	Mechanical Engineering (4 Years, Bachelor of Technology)	1	SC	All India	1	Fresh Allotment	11600342	SC	--	303
+719	Mechanical Engineering (4 Years, Bachelor of Technology)	7	SC	All India	1	Fresh Allotment	14400251	SC	--	307
+720	Mechanical Engineering (4 Years, Bachelor of Technology)	9	SC	All India	1	Fresh Allotment	19716409	SC	--	315
+721	Mechanical Engineering (4 Years, Bachelor of Technology)	16	SC	All India	1	Fresh Allotment	13102255	SC	--	321
+722	Mechanical Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	15004199	OBC-NCL	--	402
+723	Mechanical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	11130786	OBC-NCL	--	439
+724	Mechanical Engineering (4 Years, Bachelor of Technology)	21	OBC-NCL	All India	1	Fresh Allotment	14001181	OBC-NCL	--	458
+725	Mechanical Engineering (4 Years, Bachelor of Technology)	12	OBC-NCL	All India	1	Fresh Allotment	17504353	OBC-NCL	--	472
+726	Mechanical Engineering (4 Years, Bachelor of Technology)	15	OBC-NCL	All India	1	Fresh Allotment	17721351	OBC-NCL	--	484
+727	Mechanical Engineering (4 Years, Bachelor of Technology)	13	OBC-NCL	All India	1	Fresh Allotment	19715977	OBC-NCL	--	485
+728	Mechanical Engineering (4 Years, Bachelor of Technology)	12	OBC-NCL	All India	1	Fresh Allotment	21202005	OBC-NCL	--	501.01
+729	Mechanical Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	19708488	OBC-NCL	--	502
+730	Mechanical Engineering (4 Years, Bachelor of Technology)	2	OBC-NCL	All India	1	Fresh Allotment	19706369	OBC-NCL	--	505.01
+731	Mechanical Engineering (4 Years, Bachelor of Technology)	17	OBC-NCL	All India	1	Fresh Allotment	17725424	OBC-NCL	--	531.01
+732	Mechanical Engineering (4 Years, Bachelor of Technology)	8	OBC-NCL	All India	1	Fresh Allotment	17713386	OBC-NCL	--	537
+733	Mechanical Engineering (4 Years, Bachelor of Technology)	20	OBC-NCL	All India	1	Fresh Allotment	17706697	OBC-NCL	--	539
+734	Mechanical Engineering (4 Years, Bachelor of Technology)	10	OBC-NCL	All India	1	Fresh Allotment	14501845	OBC-NCL	--	545
+735	Mechanical Engineering (4 Years, Bachelor of Technology)	15	OBC-NCL	All India	1	Fresh Allotment	21203316	OBC-NCL	--	548
+736	Mechanical Engineering (4 Years, Bachelor of Technology)	9	OBC-NCL	All India	1	Fresh Allotment	19704524	OBC-NCL	--	550
+737	Mechanical Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	14402208	OBC-NCL	--	552
+738	Mechanical Engineering (4 Years, Bachelor of Technology)	12	OBC-NCL	All India	1	Fresh Allotment	17704782	OBC-NCL	--	565
+739	Mechanical Engineering (4 Years, Bachelor of Technology)	3	OBC-NCL	All India	1	Fresh Allotment	10904189	OBC-NCL	--	568
+740	Mechanical Engineering (4 Years, Bachelor of Technology)	12	OBC-NCL	All India	1	Fresh Allotment	17709879	OBC-NCL	--	581
+741	Mechanical Engineering (4 Years, Bachelor of Technology)	15	OBC-NCL	All India	1	Fresh Allotment	17713261	OBC-NCL	--	583
+742	Mechanical Engineering (4 Years, Bachelor of Technology)	7	OBC-NCL	All India	1	Fresh Allotment	19504375	OBC-NCL	--	586
+743	Mechanical Engineering (4 Years, Bachelor of Technology)	26	OBC-NCL	All India	1	Fresh Allotment	16002123	OBC-NCL	--	588
+744	Mechanical Engineering (4 Years, Bachelor of Technology)	4	OBC-NCL	All India	1	Fresh Allotment	17711932	OBC-NCL	--	589
+745	Mechanical Engineering (4 Years, Bachelor of Technology)	26	OBC-NCL	All India	1	Fresh Allotment	13703389	OBC-NCL	--	599
+746	Mechanical Engineering (4 Years, Bachelor of Technology)	16	OBC-NCL	All India	1	Fresh Allotment	19905662	OBC-NCL	--	604
+747	Mechanical Engineering (4 Years, Bachelor of Technology)	17	OBC-NCL	All India	1	Fresh Allotment	15905255	OBC-NCL	--	613
+748	Mechanical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	19707186	GENERAL	--	917
+749	Mechanical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	17901917	GENERAL	--	943
+750	Mechanical Engineering (4 Years, Bachelor of Technology)	7	Open	All India	1	Fresh Allotment	17700592	GENERAL	--	948
+751	Mechanical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	19703375	GENERAL	--	952
+752	Mechanical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	17716950	GENERAL	--	958
+753	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	16800740	GENERAL	--	987
+754	Mechanical Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	17500435	GENERAL	--	988
+755	Mechanical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	11800045	GENERAL	--	1013
+756	Mechanical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	21202671	GENERAL	--	1017
+757	Mechanical Engineering (4 Years, Bachelor of Technology)	21	Open	All India	1	Fresh Allotment	17700095	GENERAL	--	1022
+758	Mechanical Engineering (4 Years, Bachelor of Technology)	2	Open	All India	1	Fresh Allotment	18450765	GENERAL	--	1026
+759	Mechanical Engineering (4 Years, Bachelor of Technology)	5	Open	All India	1	Fresh Allotment	17716778	GENERAL	--	1049
+760	Mechanical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	19807996	GENERAL	--	1075
+761	Mechanical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	15101418	GENERAL	--	1096
+762	Mechanical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	11639052	GENERAL	--	1106
+763	Mechanical Engineering (4 Years, Bachelor of Technology)	4	Open	All India	1	Fresh Allotment	21201917	GENERAL	--	1116
+764	Mechanical Engineering (4 Years, Bachelor of Technology)	21	Open	All India	1	Fresh Allotment	19902194	GENERAL	--	1116
+765	Mechanical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	11203787	GENERAL	--	1131
+766	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	17902610	GENERAL	--	1138
+767	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	11624375	GENERAL	--	1140
+768	Mechanical Engineering (4 Years, Bachelor of Technology)	9	Open	All India	1	Fresh Allotment	11612970	GENERAL	--	1151
+769	Mechanical Engineering (4 Years, Bachelor of Technology)	6	Open	All India	1	Fresh Allotment	20302565	GENERAL	--	1159
+770	Mechanical Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	13001976	GENERAL	--	1173
+771	Mechanical Engineering (4 Years, Bachelor of Technology)	23	Open	All India	1	Fresh Allotment	17713542	GENERAL	--	1177
+772	Mechanical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	19200057	GENERAL	--	1194
+773	Mechanical Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	11614447	GENERAL	--	1199
+774	Mechanical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	20216973	GENERAL	--	1201
+775	Mechanical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	12902962	GENERAL	--	1204
+776	Mechanical Engineering (4 Years, Bachelor of Technology)	22	Open	All India	1	Fresh Allotment	19202074	GENERAL	--	1205
+777	Mechanical Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	16811302	GENERAL	--	1218
+778	Mechanical Engineering (4 Years, Bachelor of Technology)	3	Open	All India	1	Fresh Allotment	16801184	GENERAL	--	1221
+779	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	19000654	GENERAL	--	1236
+780	Mechanical Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	19200557	GENERAL	--	1239
+781	Mechanical Engineering (4 Years, Bachelor of Technology)	20	Open	All India	1	Fresh Allotment	11800869	GENERAL	--	1247
+782	Mechanical Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	11640559	GENERAL	--	1258
+783	Mechanical Engineering (4 Years, Bachelor of Technology)	8	Open	All India	1	Fresh Allotment	12504774	GENERAL	--	1259
+784	Mechanical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	11801117	GENERAL	--	1264
+785	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	17801011	GENERAL	--	1271
+786	Mechanical Engineering (4 Years, Bachelor of Technology)	13	Open	All India	1	Fresh Allotment	11802777	GENERAL	--	1274
+787	Mechanical Engineering (4 Years, Bachelor of Technology)	10	Open	All India	1	Fresh Allotment	17705630	GENERAL	--	1277
+788	Mechanical Engineering (4 Years, Bachelor of Technology)	12	Open	All India	1	Fresh Allotment	15614220	GENERAL	--	1278
+789	Mechanical Engineering (4 Years, Bachelor of Technology)	16	Open	All India	1	Fresh Allotment	11641961	GENERAL	--	1283
+790	Mechanical Engineering (4 Years, Bachelor of Technology)	26	Open	All India	1	Fresh Allotment	11201163	GENERAL	--	1288
+791	Mechanical Engineering (4 Years, Bachelor of Technology)	15	Open	All India	1	Fresh Allotment	11105697	GENERAL	--	1289
+792	Mechanical Engineering (4 Years, Bachelor of Technology)	19	Open	All India	1	Fresh Allotment	15926086	GENERAL	--	1316
+793	Mechanical Engineering (4 Years, Bachelor of Technology)	17	Open	All India	1	Fresh Allotment	19203222	GENERAL	--	1323
+794	Mechanical Engineering (4 Years, Bachelor of Technology)	26	Open	All India	1	Fresh Allotment	21200945	GENERAL	--	1329
+795	Mechanical Engineering (4 Years, Bachelor of Technology)	19	Open	All India	1	Fresh Allotment	18205724	GENERAL	--	1331
+796	Mechanical Engineering (4 Years, Bachelor of Technology)	14	Open	All India	1	Fresh Allotment	21200234	GENERAL	--	1332
+797	Mechanical Engineering (4 Years, Bachelor of Technology)	29	Open	All India	1	Fresh Allotment	15015106	GENERAL	--	1335
+798	Physics (4 Years, Bachelor of Science)	7	OBC-NCL(PwD)	All India	1	Fresh Allotment	59800001	GENERAL(PWD)	--	85
+799	Physics (4 Years, Bachelor of Science)	10	Open(PwD)	All India	1	Fresh Allotment	11113010	OBC-NCL(PWD)	--	202
+800	Physics (4 Years, Bachelor of Science)	5	Open	All India	1	Fresh Allotment	19305134	GENERAL	--	303
+801	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	60202230	GENERAL	--	543
+802	Physics (4 Years, Bachelor of Science)	1	ST	All India	1	Fresh Allotment	17713773	ST	--	559
+803	Physics (4 Years, Bachelor of Science)	10	ST	All India	1	Fresh Allotment	15506176	ST	--	678
+804	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	13100483	GENERAL	--	774
+805	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	51607431	GENERAL	--	903
+806	Physics (4 Years, Bachelor of Science)	3	SC	All India	1	Fresh Allotment	13100750	SC	--	1003
+807	Physics (4 Years, Bachelor of Science)	7	SC	All India	1	Fresh Allotment	18701041	SC	--	1061
+808	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	19802910	GENERAL	--	1104
+809	Physics (4 Years, Bachelor of Science)	2	SC	All India	1	Fresh Allotment	55200627	SC	--	1121
+810	Physics (4 Years, Bachelor of Science)	5	SC	All India	1	Fresh Allotment	18412844	SC	--	1195
+811	Physics (4 Years, Bachelor of Science)	9	SC	All India	1	Fresh Allotment	17721139	SC	--	1228
+812	Physics (4 Years, Bachelor of Science)	21	OBC-NCL	All India	1	Fresh Allotment	17704885	OBC-NCL	--	1271
+813	Physics (4 Years, Bachelor of Science)	6	OBC-NCL	All India	1	Fresh Allotment	55700849	OBC-NCL	--	1675
+814	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	55704503	GENERAL	--	1705
+815	Physics (4 Years, Bachelor of Science)	12	OBC-NCL	All India	1	Fresh Allotment	14121940	GENERAL	--	1732.01
+816	Physics (4 Years, Bachelor of Science)	29	OBC-NCL	All India	1	Fresh Allotment	17711570	OBC-NCL	--	1968
+817	Physics (4 Years, Bachelor of Science)	2	OBC-NCL	All India	1	Fresh Allotment	12802611	OBC-NCL	--	2056
+818	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	11208855	GENERAL	--	2085
+819	Physics (4 Years, Bachelor of Science)	1	OBC-NCL	All India	1	Fresh Allotment	54403014	OBC-NCL	--	2313
+820	Physics (4 Years, Bachelor of Science)	42	OBC-NCL	All India	1	Fresh Allotment	15301402	OBC-NCL	--	2336
+821	Physics (4 Years, Bachelor of Science)	4	Open	All India	1	Fresh Allotment	18433524	GENERAL	--	2401
+822	Physics (4 Years, Bachelor of Science)	11	Open	All India	1	Fresh Allotment	11211806	GENERAL	--	2527
+823	Physics (4 Years, Bachelor of Science)	12	Open	All India	1	Fresh Allotment	14106683	GENERAL	--	2625
+824	Physics (4 Years, Bachelor of Science)	28	Open	All India	1	Fresh Allotment	15001151	GENERAL	--	2761
+825	Physics (4 Years, Bachelor of Science)	15	Open	All India	1	Fresh Allotment	11203298	GENERAL	--	2784
+826	Physics (4 Years, Bachelor of Science)	14	Open	All India	1	Fresh Allotment	14006289	GENERAL	--	2860
+827	Physics (4 Years, Bachelor of Science)	1	Open	All India	1	Fresh Allotment	20218671	GENERAL	--	3009
